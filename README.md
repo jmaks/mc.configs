@@ -1,2 +1,3 @@
-13-sign
+Midnigth Commander configs
 =======
+modified by my see and needs
